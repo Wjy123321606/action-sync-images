@@ -22,7 +22,7 @@ on:
       TARGET_DOCKRE_REGISTRY:
         description: '镜像仓库'
         required: true
-        default: 'nginx'
+        default: 'nginx:1.17'
       ARCH:
         description: '系统架构'
         required: true
