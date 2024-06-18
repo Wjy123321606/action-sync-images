@@ -14,7 +14,7 @@ on:
       TARGET_REGISTRY:
         description: '仓库地址'
         required: true
-        default: 'registry.cn-hangzhou.aliyuncs.com/yehua123321'
+        default: 'registry.cn-hangzhou.aliyuncs.com'
       TARGET_REPOSITORY:
         description: '命名空间'
         required: true
