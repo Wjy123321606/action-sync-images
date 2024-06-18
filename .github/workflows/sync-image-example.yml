@@ -18,7 +18,7 @@ on:
       TARGET_REPOSITORY:
         description: '命名空间'
         required: true
-        default: 'wjy123321'
+        default: 'yehua123321'
       TARGET_DOCKRE_REGISTRY:
         description: '镜像仓库'
         required: true
