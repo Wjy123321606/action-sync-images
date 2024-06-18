@@ -22,7 +22,7 @@ on:
       TARGET_DOCKRE_REGISTRY:
         description: '镜像仓库'
         required: true
-        default: 'dockersamples/visualizer'
+        default: 'visualizer'
       ARCH:
         description: '系统架构'
         required: true
