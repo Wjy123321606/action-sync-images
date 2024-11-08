@@ -18,11 +18,11 @@ on:
       TARGET_REPOSITORY:
         description: '命名空间'
         required: true
-        default: 'wjy123321'
+        default: 'calico'
       TARGET_DOCKRE_REGISTRY:
         description: '镜像仓库'
         required: true
-        default: 'calico/cni:v3.25.0'
+        default: 'cni:v3.25.0'
       ARCH:
         description: '系统架构'
         required: true
