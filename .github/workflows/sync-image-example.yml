@@ -22,7 +22,7 @@ on:
       TARGET_DOCKRE_REGISTRY:
         description: '镜像仓库'
         required: true
-        default: 'calico/kube-controllers:v3.25.0'
+        default: 'kube-controllers:v3.25.0'
       ARCH:
         description: '系统架构'
         required: true
